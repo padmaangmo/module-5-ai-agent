@@ -1,0 +1,14 @@
+🚀 Codomax Module 5 — AI Agents, Tools & Automation
+
+I built an AI Agent using Python, Streamlit, and the Gemini API!
+
+Unlike a basic chatbot, this agent can decide when to use a tool, execute it, read the result, and then respond. I added a safe calculator, Wikipedia lookup, and a current-time tool, along with session memory and a tool execution trace.
+
+Workflow: Understand Task → Decide Action → Use Tool → Process Result → Respond.
+
+I learned about function calling, multi-step agent workflows, state management, tool safety, and error handling.
+
+GitHub: [ADD YOUR REPOSITORY URL]
+Live app: [ADD YOUR STREAMLIT URL]
+
+#Codomax #AIAgents #GenerativeAI #Python #Streamlit #GeminiAPI #Automation
